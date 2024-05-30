@@ -6,7 +6,10 @@ Welcome to the React Todo App with API! This application is designed to help you
 - [DEMO](https://anastasia1383.github.io/react-todo-app/)
 
 ## Technologies Used
-React, TypeScript, Bulma, React Router
+1. React
+2. TypeScript
+3. Bulma
+4. React Router
 
 ## Features
 1. **Add Todos**: Easily add new todos to your list.
