@@ -1,9 +1,12 @@
 # React Todo App with API
 
-- [DEMO](https://anastasia1383.github.io/react-todo-app/)
 
 ## Introduction
 Welcome to the React Todo App with API! This application is designed to help you manage your tasks effectively. It allows you to add, delete, toggle the completion status, and rename todos, all while integrating with an external API to ensure your data is consistently up-to-date.
+- [DEMO](https://anastasia1383.github.io/react-todo-app/)
+
+## Technologies Used
+React, TypeScript, Bulma, React Router
 
 ## Features
 1. **Add Todos**: Easily add new todos to your list.
@@ -14,7 +17,7 @@ Welcome to the React Todo App with API! This application is designed to help you
 ## Installation and Setup
 
 ### Prerequisites
-- Node.js and npm installed on your machine
+- Node.js (v14.18.2) and npm installed on your machine
 - React development environment set up
 
 ### Installation Steps
